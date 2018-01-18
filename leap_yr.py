@@ -1,4 +1,4 @@
 if input()%4 == 0:
-    print "Leap Year"
+    print("Leap Year")
 else :
-    print "Not"
+    print("Not")
